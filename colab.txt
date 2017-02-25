@@ -1,0 +1,18 @@
+Create a repo in github.com
+Settings/colab/add colab
+#2 accept e-mail
+#2 look at #1 to get clone address
+$ git clone webaddress
+make changes
+git add
+git commit -m
+git push
+
+later
+git pull
+make changes
+git add
+git commit -m
+
+git remote -v to see where push/pull will go
+
